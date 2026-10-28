@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Emby is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://emby.media/
+Emby provides a media server platform that allows users to organize, stream, and share personal video, music, and photo collections across a wide range of devices. It offers a customizable interface, supports live TV and DVR functionality, and integrates with various third‑party services. Emby is available for Windows, macOS, Linux, and NAS devices, with client apps for mobile, smart TVs, and streaming devices.
+
+**Areas:** Media Server · Personal Media · Streaming · Video Library · Music Library · Live TV
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://emby.media/)
+- [Documentation](https://emby.media/support/index.html)
+- [API reference](https://dev.emby.media/reference/index.html)
+- [Blog](https://emby.media/community/index.php?/blog/1/entry-317-7illusionss-emby-app-updated-for-windows-10-uwp/)
+- [Terms of service](https://emby.media/terms.html)
+- [Privacy policy](https://emby.media/privacy.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/emby/](https://apis.io/providers/emby/).
